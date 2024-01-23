@@ -11,7 +11,7 @@ import PropertyTiles from "../ui/PropertyTiles";
 import Appnav from "./../ui/Appnav";
 import OwnerNav from "./../ui/OwnerNav";
 import { useNavigate } from "react-router-dom";
-import styles from "../ui/Searchbar.module.css"
+import styles from "../ui/SearchBar.module.css"
 import Button from "../ui/Button";
 import { AiOutlineSearch } from "react-icons/ai";
 
